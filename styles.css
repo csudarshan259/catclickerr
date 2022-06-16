@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    margin-top: 5rem;
+}
+.image{
+    background-image: url(cat_.jpg);
+    background-repeat: no-repeat;
+  background-size: 300px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+  align-items:  center;
+margin:auto
+
+}
+
+.left{
+    position: relative;
+    top: 92.5%;
+    left: 0%;
+}
+#incrementText{
+    color:black;
+}
+.right{
+    position: relative;
+    top: 93%;
+    left:77%;
+}
